@@ -40,7 +40,7 @@ export function CompareProvider({ children }: { children: ReactNode }) {
 
   const addToCompare = (product: Product) => {
     if (compareProducts.some((p) => p.id === product.id)) {
-      toast("Este producto ya está en el comparador", { icon: "ℹ️" });
+      toast("Este producto ya está en el comparador");
       return;
     }
 

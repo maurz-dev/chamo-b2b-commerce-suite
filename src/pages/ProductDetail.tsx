@@ -270,7 +270,7 @@ export default function ProductDetail() {
             <div className="flex flex-wrap gap-2">
               {product.destacado && (
                 <span className="rounded-full bg-accent px-3 py-1 text-xs font-bold text-white shadow-soft">
-                  ★ Producto Destacado
+                  Producto Destacado
                 </span>
               )}
               {product.etiquetas.includes("nuevo") && (

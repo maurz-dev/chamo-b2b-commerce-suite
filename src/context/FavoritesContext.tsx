@@ -55,7 +55,6 @@ export function FavoritesProvider({ children }: { children: ReactNode }) {
 
     if (wasAdded) {
       toast.success("Añadido a favoritos", {
-        icon: '❤️',
         style: {
           borderRadius: '10px',
           background: 'var(--surface)',

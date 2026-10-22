@@ -89,7 +89,6 @@ export function CartProvider({ children }: { children: ReactNode }) {
     addToCart: (product, cantidad) => {
       dispatch({ type: "ADD", product, cantidad });
       toast.success(`${product.nombre} agregado a la cotización`, {
-        icon: '🛒',
         style: {
           borderRadius: '10px',
           background: 'var(--surface)',

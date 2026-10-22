@@ -20,69 +20,67 @@
 
 ---
 
-## 🌟 Características Destacadas (Nivel Enterprise)
+## Modulos y Funcionalidades del Sistema
 
-Inspirado en los estándares de las mejores plataformas de e-commerce y catálogos de tecnología:
+### 1. Command Palette Global (Ctrl + K / Cmd + K)
+* Buscador interactivo modal accesible globalmente mediante atajo de teclado.
+* Filtrado en tiempo real por Nombre, SKU, Marca y Categoría.
+* Acceso directo a categorías comerciales y marcas oficiales sin recargar la página.
 
-### 1. 🔍 Command Palette Global (`Ctrl + K` / `⌘ + K`)
-* Buscador instantáneo estilo Raycast / Linear accesible globalmente mediante atajo de teclado.
-* Autocompletado en tiempo real por **Nombre**, **SKU**, **Marca** y **Categoría**.
-* Acceso directo a categorías populares y marcas distribuidas sin recargar la página.
+### 2. Modulo de Cotizacion B2B y Generador de Proformas (/cotizacion)
+* **Gestion de Items:** Ajuste dinámico de cantidades, cálculo de subtotales, alerta de descuento por volumen mayorista y validación de stock disponible.
+* **Formulario Fiscal y de Despacho:** Registro de RUC o DNI, Razón Social, Persona de Contacto, Teléfono, Ciudad de destino, Tipo de Comprobante (Factura o Boleta) y Condiciones de Pago.
+* **Desglose Contable:** Cálculo automático de Subtotal Neto (Operación Gravada), I.G.V. (18%) y Total General en Soles (PEN).
+* **Generacion de Proforma Oficial en PDF:** Membrete formal con logotipo oficial, N° correlativo de proforma único (COT-2025-XXXX), validez de 7 días, tabla vectorizada con jspdf-autotable, cuentas bancarias corrientes (BCP, BBVA) y términos de despacho.
+* **Exportacion a Excel / ERP (.CSV):** Descarga inmediata compatible con hojas de cálculo con codificación UTF-8 BOM.
+* **Canalizacion Directa a WhatsApp:** Plantilla corporativa con datos de la empresa y lista estructurada de productos para cotización inmediata por un asesor comercial.
 
-### 2. 📑 Módulo de Cotización B2B y Generador de Proformas (`/cotizacion`)
-* **Gestión de Ítems en Tiempo Real:** Ajuste dinámico de cantidades, cálculo de subtotales, alerta de ahorro por precio mayorista y validación de stock.
-* **Formulario de Identidad Corporativa:** Captura de datos fiscales (RUC / DNI), Razón Social, Contacto, Teléfono, Ciudad de destino, Tipo de comprobante (Factura / Boleta) y Condiciones de pago.
-* **Desglose Contable:** Cálculo automático de Subtotal Neto, I.G.V. (18%) y Total General en Soles (PEN).
-* **Generación de Proforma Oficial en PDF:** Membrete institucional con logotipo oficial, N° de Cotización `COT-2025-XXXX`, fecha de emisión y vencimiento (7 días), tabla con `jspdf-autotable`, cuentas bancarias oficiales (BCP, BBVA, Yape/Plin) y cláusulas comerciales.
-* **Exportación a Excel / ERP (.CSV):** Descarga instantánea de la lista de cotización en formato tabular compatible con Excel (con UTF-8 BOM para caracteres en español).
-* **Despacho Directo por WhatsApp:** Formato corporativo estructurado con resumen de cliente y lista de productos para atención rápida por un asesor comercial.
+### 3. Comparador Tecnico de Productos Lado a Lado
+* Comparación simultánea de hasta 4 productos.
+* Barra flotante reactiva con miniaturas de acceso rápido.
+* Matriz comparativa modal con contraste de precios (unitario vs. mayorista), disponibilidad de stock y especificaciones técnicas completas (potencia, material, longitud, usos recomendados).
 
-### 3. ⚖️ Comparador Técnico de Productos Lado a Lado
-* Comparación de hasta 4 productos simultáneamente.
-* Barra flotante inferior reactiva con miniaturas y acceso rápido.
-* Matriz comparativa modal con análisis de precio minorista vs. mayorista, stock y especificaciones técnicas completas (potencia, longitud, material, etc.).
+### 4. Modal de Vista Rapida (Quick View)
+* Inspección de producto desde cualquier tarjeta del catálogo sin interrumpir la navegación.
+* Galería de imágenes, selector de cantidades, simulador de precios y botón de agregar a proforma.
 
-### 4. 👁️ Modal de Vista Rápida (Quick View)
-* Previsualización instantánea de producto desde cualquier tarjeta del catálogo o home sin perder la posición de scroll.
-* Galería de miniaturas, selector de cantidades, simulador de precio y botón de agregar a proforma.
+### 5. Catalogo Multifacetico con Vistas Flexibles
+* **Selector de Vistas:** Alternancia entre Vista en Cuadrícula (Grid View) y Vista en Lista Tabular (List View) orientada a adquisiciones al por mayor.
+* **Filtros Combinables:** Por categorías, marcas distribuidas con conteo de productos, rango de precios dinámico y disponibilidad inmediata de stock.
+* **Chips de Filtros Activos:** Indicadores visuales de filtros aplicados con remoción individual o botón de "Limpiar todos".
+* **Criterios de Ordenamiento:** Destacados, Menor Precio, Mayor Precio, Mayor Descuento, Nombre A-Z y Nombre Z-A.
 
-### 5. 🎛️ Catálogo Multifacético con Vistas Flexibles
-* **Selector de Vistas:** Alternancia entre **Grilla (Grid View)** y **Lista Tabular (List View)** optimizada para compras B2B al por mayor.
-* **Filtros Combinables:** Por categorías, marcas oficiales con conteo, rango de precios dinámico y disponibilidad inmediata de stock.
-* **Chips de Filtros Activos:** Visualización interactiva de filtros aplicados con remoción individual o botón de "Limpiar todos".
-* **Ordenamiento Avanzado:** Destacados, Menor Precio, Mayor Precio, Mayor Descuento, Nombre A–Z y Nombre Z–A.
+### 6. Ficha Tecnica de Producto
+* Galería interactiva con miniaturas, navegación por teclado y visualización ampliada.
+* **Simulador de Ahorro Mayorista:** Cálculo en tiempo real del costo estándar minorista versus costo mayorista y ahorro proyectado según el volumen solicitado.
+* Copia rápida de SKU al portapapeles con alerta Toast.
+* Función para compartir ficha técnica mediante Web Share API o copiado de enlace directo.
+* Acordeón técnico y recomendaciones de productos relacionados.
 
-### 6. 📱 Ficha de Producto de Alto Impacto
-* Galería interactiva con miniaturas, navegación por teclado y Lightbox a pantalla completa.
-* **Simulador de Ahorro Mayorista:** Calcula en tiempo real la diferencia de costo y el ahorro acumulado según las unidades ingresadas.
-* Copia rápida de SKU al portapapeles con feedback mediante Toast.
-* Botón de compartir nativo (Web Share API) y copy-link.
-* Acordeón técnico detallado y carrusel de productos relacionados.
-
-### 7. 🎨 Identidad Visual y Modo Oscuro Pulido
-* Implementación estricta de la guía de marca oficial de Chamo Import S.R.L. a través de variables CSS (`src/styles/tokens.css`).
-* Modo oscuro completo con toggle persistente en `localStorage` y variantes nativas de Tailwind CSS v4.
-* Barra superior corporativa de avisos (Announcement Bar) con teléfonos de contacto, cobertura de despachos y garantías.
-* Franja interactiva de marcas distribuidoras (Truper, 3M, Bauker, Tekno, Topex, Steck, Vinifan, Asaki, Cubull) con redirección al catálogo filtrado.
+### 7. Identidad Corporativa y Modo Oscuro
+* Implementación estricta de la guía de marca oficial de Chamo Import S.R.L. mediante variables CSS (src/styles/tokens.css).
+* Modo oscuro completo con persistencia en localStorage y variantes nativas de Tailwind CSS v4.
+* Barra de avisos corporativa con teléfonos de atención, cobertura de despachos y garantías oficiales.
+* Franja interactiva de marcas distribuidoras (Truper, 3M, Bauker, Tekno, Topex, Steck, Vinifan, Asaki, Cubull) con enlace directo al catálogo filtrado.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnologico
 
-| Capa | Herramientas | Justificación |
+| Capa | Herramientas | Justificacion |
 |---|---|---|
-| **Core** | React 19 · TypeScript · Vite 8 | Máximo rendimiento, tipado estricto y compilación ultrarrápida |
-| **Enrutamiento** | React Router v7 | Navegación SPA con sincronización de parámetros de búsqueda (`?q=`, `?marca=`) |
-| **Estilos** | Tailwind CSS v4 (`@tailwindcss/vite`) + CSS Custom Properties | Arquitectura de tokens sin CSS suelto ni valores hexadecimales hardcodeados |
-| **Animaciones** | Framer Motion | Microinteracciones en modales, drawer lateral, toggles y hover states |
-| **Documentos** | jsPDF + jspdf-autotable | Generación de cotizaciones y proformas comerciales vectoriales en el cliente |
-| **Estado Global** | React Context API + Custom Hooks | Arquitectura limpia y modular sin dependencias pesadas de terceros |
-| **Notificaciones** | react-hot-toast | Feedback visual no intrusivo y accesible |
-| **Iconografía** | lucide-react | Set de iconos SVG modernos y consistentes |
+| **Core** | React 19, TypeScript, Vite 8 | Máximo rendimiento, tipado estricto y compilación ultrarrápida |
+| **Enrutamiento** | React Router v7 | Navegación SPA con sincronización bidireccional de parámetros en URL |
+| **Estilos** | Tailwind CSS v4 (@tailwindcss/vite) + CSS Custom Properties | Arquitectura de tokens sin CSS disperso ni valores hexadecimales no estandarizados |
+| **Animaciones** | Framer Motion | Microinteracciones en modales, drawer lateral, acordeones y transiciones de vista |
+| **Documentos** | jsPDF + jspdf-autotable | Generación en el cliente de proformas comerciales vectorizadas en PDF |
+| **Estado Global** | React Context API + Custom Hooks | Arquitectura desacoplada y mantenible sin dependencias externas pesadas |
+| **Notificaciones** | react-hot-toast | Notificaciones accesibles para acciones de compra y portapapeles |
+| **Iconografia** | lucide-react | Conjunto de iconos vectoriales SVG consistentes |
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Directorio
 
 ```text
 catalogo-web-chamo/
@@ -103,13 +101,13 @@ catalogo-web-chamo/
 │   │   ├── common/        # Skeleton, EmptyState, ErrorState
 │   │   └── ui/            # LazyImage con estado de carga progresivo
 │   ├── context/           # CartContext, FavoritesContext, ThemeContext, CompareContext
-│   ├── data/              # products.json (40 ítems con specs), categories.json, brand.ts, brands.ts, banners.ts, faq.ts
+│   ├── data/              # products.json (40 productos con specs), categories.json, brand.ts, brands.ts, banners.ts, faq.ts
 │   ├── hooks/             # useAsync, useProducts, useDebounce
 │   ├── pages/             # Home, Catalog, ProductDetail, CartPage (Cotizador B2B), FavoritesPage, NotFound
-│   ├── services/          # productService, categoryService, api.ts (Capa de servicio con delay simulado)
+│   ├── services/          # productService, categoryService, api.ts (Capa de servicio desacoplada con delay simulado)
 │   ├── styles/            # tokens.css (Paleta corporativa, tipografía, radios y sombras)
 │   ├── types/             # Interfaces TypeScript (Product, Category, Filters, QuoteCustomerInfo, SortOption)
-│   └── utils/             # pdfGenerator.ts (Exportación PDF/CSV), text.ts (Normalización de búsqueda sin tildes)
+│   └── utils/             # pdfGenerator.ts (Exportación PDF/CSV), text.ts (Normalización de búsqueda sin diacríticos)
 ├── index.html
 ├── package.json
 ├── tsconfig.json
@@ -118,13 +116,13 @@ catalogo-web-chamo/
 
 ---
 
-## 🚀 Instalación y Puesta en Marcha
+## Instalacion y Ejecucion Local
 
-### Prerrequisitos
+### Requisitos Previos
 * Node.js v18 o superior
 * npm v9 o superior
 
-### Pasos
+### Comandos
 
 ```bash
 # 1. Clonar el repositorio
@@ -136,22 +134,21 @@ npm install
 
 # 3. Iniciar el servidor de desarrollo local
 npm run dev
-# -> http://localhost:5173
 
-# 4. Verificar tipado estricto
+# 4. Validar tipado TypeScript
 npx tsc -b
 
-# 5. Compilar bundle de producción
+# 5. Compilar bundle de produccion
 npm run build
 
-# 6. Previsualizar compilación de producción
+# 6. Previsualizar la compilacion
 npm run preview
 ```
 
 ---
 
-## 💼 Decisiones de Arquitectura y Negocio
+## Criterios de Arquitectura y Diseno
 
-1. **Capa de Servicios Aislada:** Ningún componente React consume directamente archivos JSON ni endpoints externos. Todo el acceso a datos ocurre mediante `src/services/productService.ts` y `categoryService.ts`. Conectar un backend real (REST o GraphQL) requiere modificar únicamente estos archivos de servicio.
-2. **Cotizador B2B Real:** A diferencia de un carrito minorista convencional que requiere pasarela de pagos con tarjeta de crédito, este sistema está optimizado para el modelo de negocio mayorista ferretero peruano: emisión de proformas formales válidas por 7 días, cálculo de I.G.V., y formalización de pedidos mediante asesoría comercial en WhatsApp y transferencia bancaria.
-3. **Accesibilidad y Rendimiento:** Marcado semántico HTML5, soporte completo de navegación por teclado, focus-visible con tokens de marca, imágenes con lazy loading y fallback ante fallos de carga.
+1. **Capa de Servicios Desacoplada:** Los componentes de la interfaz no consumen directamente archivos estáticos ni endpoints de red. El acceso a datos está centralizado en `src/services/productService.ts` y `src/services/categoryService.ts`. La migración a una API REST o GraphQL en producción requiere modificar exclusivamente dicha capa.
+2. **Modelo de Negocio Mayorista:** A diferencia de una tienda minorista con pasarela de pago para consumidor final, la plataforma está diseñada para la operativa comercial B2B: cotizaciones formales por volumen, desglose de I.G.V. para facturación corporativa, emisión de proformas en PDF con cuentas bancarias y canalización de pedidos vía ejecutivos comerciales.
+3. **Accesibilidad y Rendimiento:** Estructura semántica HTML5, navegación completa por teclado, estados de foco definidos según tokens de diseño e imágenes optimizadas con lazy loading.

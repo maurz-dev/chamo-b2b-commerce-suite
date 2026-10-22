@@ -87,26 +87,26 @@ export default function CartPage() {
   const handleSendWhatsApp = () => {
     if (lines.length === 0) return;
 
-    let msg = `*COTIZACIÓN COMERCIAL - CHAMO IMPORT S.R.L.*\n\n`;
-    msg += `🏢 *Cliente:* ${customerInfo.razonSocial || "Particular"}\n`;
+    let msg = `*COTIZACION COMERCIAL - CHAMO IMPORT S.R.L.*\n\n`;
+    msg += `*Cliente:* ${customerInfo.razonSocial || "Particular"}\n`;
     if (customerInfo.numeroDocumento) {
-      msg += `📄 *${customerInfo.tipoDocumento}:* ${customerInfo.numeroDocumento}\n`;
+      msg += `*${customerInfo.tipoDocumento}:* ${customerInfo.numeroDocumento}\n`;
     }
     if (customerInfo.contacto) {
-      msg += `👤 *Contacto:* ${customerInfo.contacto}\n`;
+      msg += `*Contacto:* ${customerInfo.contacto}\n`;
     }
-    msg += `📍 *Destino:* ${customerInfo.ciudad}\n`;
-    msg += `💳 *Comprobante:* ${customerInfo.tipoComprobante}\n\n`;
-    msg += `📦 *DETALLE DE PRODUCTOS:*\n`;
+    msg += `*Destino:* ${customerInfo.ciudad}\n`;
+    msg += `*Comprobante:* ${customerInfo.tipoComprobante}\n\n`;
+    msg += `*DETALLE DE PRODUCTOS:*\n`;
 
     lines.forEach((l, index) => {
       msg += `${index + 1}. ${l.product.nombre} (SKU: ${l.product.sku})\n`;
-      msg += `   • Cantidad: ${l.cantidad} un. x ${currency.format(l.product.precio)} = ${currency.format(l.product.precio * l.cantidad)}\n`;
+      msg += `   - Cantidad: ${l.cantidad} un. x ${currency.format(l.product.precio)} = ${currency.format(l.product.precio * l.cantidad)}\n`;
     });
 
-    msg += `\n💰 *TOTAL ESTIMADO: ${currency.format(subtotal)}* (Inc. IGV)\n`;
+    msg += `\n*TOTAL ESTIMADO: ${currency.format(subtotal)}* (Inc. IGV)\n`;
     if (customerInfo.notas) {
-      msg += `\n📝 *Notas:* ${customerInfo.notas}\n`;
+      msg += `\n*Notas de entrega:* ${customerInfo.notas}\n`;
     }
     msg += `\n_Solicito confirmación de stock, tiempo de entrega y cuenta de abono._`;
 
