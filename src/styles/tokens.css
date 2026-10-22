@@ -1,0 +1,62 @@
+/* ==========================================================================
+   TOKENS DE DISEÑO — CHAMO IMPORT S.R.L.
+   Fuente: paleta oficial de marca + documento de actividad (sección 5).
+   Regla: ningún componente escribe hexadecimales sueltos. Todo pasa por aquí.
+   ========================================================================== */
+
+/* Habilita modo oscuro por clase (.dark en <html>) en vez de solo por
+   preferencia del sistema, ya que lo controlamos con un toggle en el header. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* ---- Colores de marca (light por defecto) ---- */
+  --color-primary: #0057b8;       /* Azul Principal — botones, precios, badges */
+  --color-primary-dark: #00408a;  /* hover/pressed del primario */
+  --color-secondary: #003366;     /* Azul Marino — cabecera, footer, títulos de sección */
+  --color-accent: #f4a300;        /* Naranja — etiqueta "Nuevo", iconos de categoría */
+  --color-whatsapp: #25d366;      /* Exclusivo del botón flotante y CTA de cotización */
+
+  --color-text: #0f172a;
+  --color-text-muted: #475569;
+  --color-border: #e2e8f0;
+  --color-surface: #ffffff;
+  --color-bg: #f8fafc;
+
+  /* Neutros de la paleta oficial, disponibles como utilidades extra */
+  --color-steel: #a6a8ab;   /* Gris metálico — bordes/separadores industriales */
+  --color-ink: #0d0d0d;     /* Negro de marca — contraste fuerte */
+
+  /* ---- Tipografía ---- */
+  --font-heading: "Montserrat", "Inter", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  /* Escala tipográfica exacta del documento: 12/14/16/20/24/32/40px */
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --text-3xl: 32px;
+  --text-4xl: 40px;
+
+  /* ---- Sombras suaves (nunca duras/negras) ---- */
+  --shadow-soft: 0 1px 3px rgba(15, 23, 42, 0.06), 0 1px 2px rgba(15, 23, 42, 0.04);
+  --shadow-hover: 0 8px 24px rgba(0, 87, 184, 0.12), 0 2px 6px rgba(15, 23, 42, 0.06);
+}
+
+/* ---- Modo oscuro: se sobreescriben solo los neutros de superficie/texto.
+   El primario se aclara levemente para mantener contraste AA sobre fondo oscuro. ---- */
+.dark {
+  --color-primary: #3d8bff;
+  --color-primary-dark: #66a3ff;
+  --color-secondary: #7fb2ff;
+  --color-text: #f8fafc;
+  --color-text-muted: #94a3b8;
+  --color-border: #334155;
+  --color-surface: #1e293b;
+  --color-bg: #0f172a;
+}
+
+/* Espaciado (4/8/12/16/24/32/48/64) y radios (8px / 999px) ya coinciden
+   con la escala por defecto de Tailwind (p-1..p-16, rounded-lg, rounded-full),
+   por eso no se redefinen acá: se usan las utilidades nativas directamente. */

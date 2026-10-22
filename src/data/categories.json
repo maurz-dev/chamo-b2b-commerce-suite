@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ferreteria",
+    "nombre": "Ferretería",
+    "imagen": "/products/cat-ferreteria.jpg"
+  },
+  {
+    "id": "iluminacion",
+    "nombre": "Iluminación",
+    "imagen": "/products/cat-iluminacion.jpg"
+  },
+  {
+    "id": "electricos",
+    "nombre": "Artículos Eléctricos",
+    "imagen": "/products/cat-electricos.jpg"
+  },
+  {
+    "id": "adhesivos",
+    "nombre": "Adhesivos",
+    "imagen": "/products/cat-adhesivos.jpg"
+  },
+  {
+    "id": "escolar",
+    "nombre": "Campaña Escolar",
+    "imagen": "/products/cat-escolar.jpg"
+  },
+  {
+    "id": "pinturas",
+    "nombre": "Pinturas y Acabados",
+    "imagen": "/products/cat-pinturas.jpg"
+  }
+]

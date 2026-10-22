@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "p1",
+    "sku": "FER-0001",
+    "nombre": "Martillo de uña 16oz",
+    "descripcion": "Cabeza de acero forjado, mango antideslizante.",
+    "categoria": "ferreteria",
+    "marca": "STANLEY",
+    "precio": 28,
+    "precioMayorista": 23.8,
+    "precioAnterior": null,
+    "stock": 21,
+    "imagenes": [
+      "/products/fer-0001.jpg",
+      "/products/fer-0001-1.jpg",
+      "/products/fer-0001-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "STANLEY",
+      "Material del Mago": "Madera",
+      "Criterios de Sostenibilidad": "Producción Sustentable",
+      "Material de la cabeza": "Acero",
+      "Espesor": "11.5 cm"
+    }
+  },
+  {
+    "id": "p2",
+    "sku": "FER-0002",
+    "nombre": "Taladro percutor 750W",
+    "descripcion": "Potencia tu trabajo industrial con el Taladro Percutor Inalámbrico Truper ROTI-20A-2-BAT, diseñado para ofrecerte máxima eficiencia y libertad de movimiento. Su potente motor de 220V y doble rango de velocidad (0-350 y 0-1400 RPM) te permiten abordar cualquier tarea con precisión, desde perforaciones delicadas hasta trabajos exigentes. Disfruta de la comodidad y autonomía de su batería recargable de Li-ion, ideal para proyectos en cualquier lugar.",
+    "categoria": "ferreteria",
+    "marca": "TRUPER",
+    "precio": 249,
+    "precioMayorista": 211.65,
+    "precioAnterior": null,
+    "stock": 22,
+    "imagenes": [
+      "/products/fer-0002.jpg",
+      "/products/fer-0002-1.jpg"
+    ],
+    "destacado": true,
+    "etiquetas": [
+      "destacado"
+    ],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "TRUPER",
+      "Modelo": "ROTI-20A-2-BAT",
+      "Potencia": "220V",
+      "Velocidad": "0-350 y 0-1400 RPM",
+      "Voltaje": "20V",
+      "Batería": "Li-ion"
+    }
+  },
+  {
+    "id": "p3",
+    "sku": "FER-0003",
+    "nombre": "Llave inglesa 10 pulgadas",
+    "descripcion": "Apertura ajustable, acero al cromo vanadio.",
+    "categoria": "ferreteria",
+    "marca": "KARSON",
+    "precio": 35,
+    "precioMayorista": 29.75,
+    "precioAnterior": null,
+    "stock": 23,
+    "imagenes": [
+      "/products/fer-0003.jpg",
+      "/products/fer-0003-1.jpg",
+      "/products/fer-0003-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "KARSON",
+      "Tipo de Llave": "Ajustable",
+      "Tipo de Trabajo": "Trabajo liviano",
+      "Incluye": "Llave ajustable 10"
+    }
+  },
+  {
+    "id": "p4",
+    "sku": "FER-0004",
+    "nombre": "Juego de Destornilladores 31 Piezas",
+    "descripcion": "¡Renueva tu caja de herramientas con el Juego de Destornilladores Bauker de 31 piezas! Este completo set es perfecto para trabajos livianos y te ofrece la versatilidad que necesitas gracias a sus puntas planas y Phillips. Con este juego, tendrás todo lo necesario para abordar tus proyectos con facilidad y eficiencia.",
+    "categoria": "ferreteria",
+    "marca": "BAUKER",
+    "precio": 22,
+    "precioMayorista": 18.7,
+    "precioAnterior": null,
+    "stock": 24,
+    "imagenes": [
+      "/products/fer-0004.jpg",
+      "/products/fer-0004-1.jpg",
+      "/products/fer-0004-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [
+      "nuevo"
+    ],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "BAUKER",
+      "Tipo de Juego": "31 Piezas",
+      "Tipo de Punta": "Planas y Phillips",
+      "Mango": "Ergonómico Antideslizante"
+    }
+  },
+  {
+    "id": "p5",
+    "sku": "FER-0005",
+    "nombre": "Cinta Métrica Global Plus 5M",
+    "descripcion": "¡Lleva tus proyectos al siguiente nivel con la Cinta Métrica Global Plus 5M de Stanley! Diseñada para ser tu aliada perfecta en cada medición, esta herramienta te brinda la precisión que necesitas para trabajos de bricolaje y reparaciones en casa. Su alcance de 5 metros te da la libertad de medir espacios amplios sin complicaciones, asegurando resultados exactos en cada uso.",
+    "categoria": "ferreteria",
+    "marca": "STANLEY",
+    "precio": 15,
+    "precioMayorista": 12.75,
+    "precioAnterior": null,
+    "stock": 0,
+    "imagenes": [
+      "/products/fer-0005.jpg",
+      "/products/fer-0005-1.jpg",
+      "/products/fer-0005-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [
+      "agotado"
+    ],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "STANLEY",
+      "Alcance": "5 metros",
+      "Medida": "5M",
+      "Largo": "14.7cm",
+      "Ancho": "9cm"
+    }
+  },
+  {
+    "id": "p6",
+    "sku": "FER-0006",
+    "nombre": "Alicate universal 8 pulgadas",
+    "descripcion": "Fabricado en metal revestido en plástico. Mango ergonométrico recubierto con protección pronunciada en la parte superior, para impedir que la mano toque la mordaza de metal en trabajos eléctricos.",
+    "categoria": "ferreteria",
+    "marca": "KAMASA",
+    "precio": 24,
+    "precioMayorista": 20.4,
+    "precioAnterior": null,
+    "stock": 26,
+    "imagenes": [
+      "/products/fer-0006.jpg",
+      "/products/fer-0006-1.jpg",
+      "/products/fer-0006-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "KAMASA",
+      "Alto": "2.2",
+      "Ancho": "6",
+      "Largo": "20 cm"
+    }
+  },
+  {
+    "id": "p7",
+    "sku": "FER-0007",
+    "nombre": "Arco de Sierra 12″ Deluxe",
+    "descripcion": "Esta sierra de arco es una herramienta esencial para cortes precisos en materiales duros como metales y plásticos rígidos. Su diseño funcional y ligero la hace ideal tanto para uso profesional como doméstico.",
+    "categoria": "ferreteria",
+    "marca": "ASAKI",
+    "precio": 32,
+    "precioMayorista": 27.2,
+    "precioAnterior": null,
+    "stock": 27,
+    "imagenes": [
+      "/products/fer-0007.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [
+      "más vendido"
+    ],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "ASAKI",
+      "Material": "Acero",
+      "Tipo de Sierra": "Sierra de arco",
+      "Longitud": "12 pulgadas",
+      "Uso recomendado": "Cortes precisos en materiales duros como metales y plásticos rígidos"
+    }
+  },
+  {
+    "id": "p8",
+    "sku": "FER-0008",
+    "nombre": "Nivel De Burbuja 60cm Magnético Con 3burbujas Alta Precisión",
+    "descripcion": "El nivel de burbuja WSL3G60 de 60 cm es una herramienta manual fabricada en aluminio que combina ligereza y resistencia, ideal para trabajos de precisión en construcción, carpintería y bricolaje. Gracias a su estructura de aluminio de aproximadamente 1 mm de espesor, ofrece durabilidad y fácil manejo, mientras que sus burbujas de medición permiten verificar alineaciones tanto horizontales como verticales con gran exactitud. Su tamaño compacto lo hace práctico para trabajos en espacios reducidos o instalaciones domésticas, siendo una opción confiable para asegurar acabados rectos y profesionales en cada proyecto.",
+    "categoria": "ferreteria",
+    "marca": "Generico",
+    "precio": 26,
+    "precioMayorista": 22.1,
+    "precioAnterior": null,
+    "stock": 28,
+    "imagenes": [
+      "/products/fer-0008.jpg",
+      "/products/fer-0008-1.jpg",
+      "/products/fer-0008-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Ferretería",
+      "Marca": "Generico",
+      "Longitud": "60 cm",
+      "Material": "Aluminio",
+      "Número de burbujas": "3",
+      "Tipo de medición": "Horizontal y vertical",
+      "Uso recomendado": "Construcción, carpintería y bricolaje"
+    }
+  },
+  {
+    "id": "p9",
+    "sku": "ILU-0009",
+    "nombre": "Foco LED E27 9W Luz Cálida",
+    "descripcion": "Ilumina tu hogar con el Foco LED E27 9W Luz Cálida, ideal para crear un ambiente acogedor. Su diseño clásico y forma globo se adapta a cualquier espacio, ofreciendo una luz cálida de 800 lm que te permitirá disfrutar de una iluminación eficiente y duradera. Con su fácil instalación y un consumo equivalente a 60W, este foco LED es la solución perfecta para renovar la iluminación de tu casa.",
+    "categoria": "iluminacion",
+    "marca": "DAIRU",
+    "precio": 8,
+    "precioMayorista": 6.8,
+    "precioAnterior": null,
+    "stock": 29,
+    "imagenes": [
+      "/products/ilu-0009.jpg",
+      "/products/ilu-0009-1.jpg",
+      "/products/ilu-0009-2.jpg"
+    ],
+    "destacado": true,
+    "etiquetas": [
+      "destacado"
+    ],
+    "especificaciones": {
+      "Categoría": "Iluminación",
+      "Marca": "DAIRU",
+      "Potencia": "9W",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas",
+      "Material": "Plástico y componentes electrónicos"
+    }
+  },
+  {
+    "id": "p10",
+    "sku": "ILU-0010",
+    "nombre": "PANEL LED SOBREPONER 18 WATTS REDONDO",
+    "descripcion": "Este Panel LED cuenta con un acabado elegante, marco de aluminio lacado en blanco. Con un arranque inmediato, sin ruidos y sin parpadeos, es perfecto para lugares en donde se quiere maximizar el espacio iluminado, proyectando la luz de manera uniforme y sin deslumbramiento. Es la elección ideal si se busca un panel con buenas prestaciones y un mínimo consumo.",
+    "categoria": "iluminacion",
+    "marca": "Generico",
+    "precio": 22,
+    "precioMayorista": 18.7,
+    "precioAnterior": null,
+    "stock": 30,
+    "imagenes": [
+      "/products/ilu-0010.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Iluminación",
+      "Marca": "Generico",
+      "Potencia": "18W",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas",
+      "Material": "Plástico y componentes electrónicos"
+    }
+  },
+  {
+    "id": "p11",
+    "sku": "ILU-0011",
+    "nombre": "REFLECTOR LED 50W ALTO BRILLO ULTRA DELGADO LUZ BLANCO",
+    "descripcion": "Es una fuente de luz que utiliza diodos emisores de luz (LED) para producir iluminación. Los reflectores LED son conocidos por su eficiencia energética y larga vida útil en comparación con otras fuentes de luz tradicionales, como las lámparas incandescentes o fluorescentes.",
+    "categoria": "iluminacion",
+    "marca": "Generico",
+    "precio": 45,
+    "precioMayorista": 38.25,
+    "precioAnterior": 60.75,
+    "stock": 31,
+    "imagenes": [
+      "/products/ilu-0011.jpg",
+      "/products/ilu-0011-1.jpg",
+      "/products/ilu-0011-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [
+      "oferta"
+    ],
+    "especificaciones": {
+      "Categoría": "Iluminación",
+      "Marca": "Generico",
+      "Potencia": "18W",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas",
+      "Material": "Plástico y componentes electrónicos"
+    }
+  },
+  {
+    "id": "p12",
+    "sku": "ILU-0012",
+    "nombre": "Tira LED 5m RGB con control",
+    "descripcion": "Esta Tira LED multicolor tiene una potencia de 12 W y una vida útil de 20000 h, asegurando una iluminación duradera y eficiente. Es una cinta LED con alimentación eléctrica, ideal para interiores (IP20). El color que recibirás será al azar.",
+    "categoria": "iluminacion",
+    "marca": "DAIRU",
+    "precio": 39,
+    "precioMayorista": 33.15,
+    "precioAnterior": null,
+    "stock": 32,
+    "imagenes": [
+      "/products/ilu-0012.jpg",
+      "/products/ilu-0012-1.jpg",
+      "/products/ilu-0012-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Iluminación",
+      "Marca": "DAIRU",
+      "Potencia": "18W",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas",
+      "Material": "Plástico y componentes electrónicos"
+    }
+  },
+  {
+    "id": "p13",
+    "sku": "ILU-0013",
+    "nombre": "LED Lámparas de Techo Cuadrado 20cm 3 Colores para Pasillo",
+    "descripcion": "Material confiable y duradero: La lámpara de techo moderna adopta una acrílica de alta transmitancia, que emite una luz uniforme y estable, y es más conveniente de limpiar. Cuerpo de la lámpara de metal y acrílico, antioxidante y anticorrosión, textura brillante.",
+    "categoria": "iluminacion",
+    "marca": "HOME NEAT",
+    "precio": 55,
+    "precioMayorista": 46.75,
+    "precioAnterior": null,
+    "stock": 33,
+    "imagenes": [
+      "/products/ilu-0013.jpg",
+      "/products/ilu-0013-1.jpg",
+      "/products/ilu-0013-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Iluminación",
+      "Marca": "HOME NEAT",
+      "Tamaño": "Cuadrado 20cm",
+      "Colores de luz": "3 Colores",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas",
+      "Material": "Plástico y componentes electrónicos"
+    }
+  },
+  {
+    "id": "p14",
+    "sku": "ILU-0014",
+    "nombre": "LAMPARA DE MESA ARTICULADA DE METAL",
+    "descripcion": "Diseño moderno y funcional: La lámpara de mesa cuenta con un diseño moderno y funcional, con un cuerpo de metal que le da un aspecto elegante y sofisticado.",
+    "categoria": "iluminacion",
+    "marca": "SEISA",
+    "precio": 6,
+    "precioMayorista": 5.1,
+    "precioAnterior": null,
+    "stock": 34,
+    "imagenes": [
+      "/products/ilu-0014.jpg",
+      "/products/ilu-0014-1.jpg",
+      "/products/ilu-0014-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Iluminación",
+      "Marca": "SEISA",
+      "Material": "Metal",
+      "Tamaño": "20cm",
+      "Colores de luz": "3 Colores",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas"
+    }
+  },
+  {
+    "id": "p15",
+    "sku": "ELE-0015",
+    "nombre": "Conmutador Simple 3 Módulos 250V 10A Lyra",
+    "descripcion": "Línea de Interruptores y Tomacorrientes Residenciales Steck inspirada en la constelación LYRA. Con líneas elegantes, discretas y simplicidad en sus formas, la nueva Línea Lyra® de Steck, representa algo que es único y especial.",
+    "categoria": "electricos",
+    "marca": "STECK",
+    "precio": 50,
+    "precioMayorista": 42.5,
+    "precioAnterior": null,
+    "stock": 20,
+    "imagenes": [
+      "/products/ele-0015.jpg",
+      "/products/ele-0015-1.jpg",
+      "/products/ele-0015-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Artículos Eléctricos",
+      "Marca": "STECK",
+      "Tensión": "250V",
+      "Corriente": "10A",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas",
+      "Material": "Plástico y componentes electrónicos"
+    }
+  },
+  {
+    "id": "p16",
+    "sku": "ELE-0016",
+    "nombre": "TOMACORRIENTE DOBLE BLANCO 15A CON L TIERRA UNIV 127250V",
+    "descripcion": "Tomacorriente doble de uso residencial y comercial, diseñado para conexiones seguras de equipos eléctricos. Cuenta con sistema universal (multiformato) que permite conectar distintos tipos de enchufes y dispone de línea a tierra (L/T) para mayor protección eléctrica. Fabricado en material resistente (PVC o ABS), soporta una corriente de 15 amperios y un voltaje de 127 a 250V, ideal para instalaciones domésticas estándar. Incluye dos salidas independientes, lo que permite conectar varios dispositivos al mismo tiempo.",
+    "categoria": "electricos",
+    "marca": "CUBULL",
+    "precio": 11.90,
+    "precioMayorista": 11,
+    "precioAnterior": null,
+    "stock": 21,
+    "imagenes": [
+      "/products/ele-0016.jpg",
+      "/products/ele-0016-1.jpg",
+      "/products/ele-0016-2.jpg"
+    ],
+    "destacado": true,
+    "etiquetas": [
+      "destacado"
+    ],
+    "especificaciones": {
+      "Categoría": "Artículos Eléctricos",
+      "Marca": "CUBULL",
+      "Tensión": "250V",
+      "Corriente": "15A",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas",
+      "Material": "Plástico y componentes electrónicos"
+    }
+  },
+  {
+    "id": "p17",
+    "sku": "ELE-0017",
+    "nombre": "Caja de Pase Octogonal PVC 3/4",
+    "descripcion": "La Caja de Pase Octogonal PVC 3/4' Pavco es la solución ideal para tus instalaciones eléctricas. Con su diseño octogonal, esta caja de distribución embutida te permite organizar tus cables de forma segura y eficiente. Fabricada en PVC de alta calidad, esta caja es resistente y duradera, asegurando una instalación confiable y de larga duración. Además, su color blanco se adapta a cualquier ambiente, brindando un acabado estético a tus proyectos.",
+    "categoria": "electricos",
+    "marca": "PAVCO",
+    "precio": 9,
+    "precioMayorista": 7.65,
+    "precioAnterior": null,
+    "stock": 22,
+    "imagenes": [
+      "/products/ele-0017.jpg",
+      "/products/ele-0017-1.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Artículos Eléctricos",
+      "Marca": "PAVCO",
+      "Material": "PVC",
+      "Color": "Blanco"
+    }
+  },
+  {
+    "id": "p18",
+    "sku": "ELE-0018",
+    "nombre": "INTERRUPTOR TERMOMAGNETICO 3P 20A 10KA 415V",
+    "descripcion": "LosInterruptores Steck son equipos de alta tecnología que protegen las conexiones eléctricas residenciales, comerciales e industriales contra cortocircuitos y sobrecargas de energía. Este dispositivo permite aplicaciones seguras en cualquier tipo de instalación, pues posee sistema de disparo libre: capacidad disparar mismo estando con la palanca de accionamiento trabada en la posición de encendido. ",
+    "categoria": "electricos",
+    "marca": "STECK",
+    "precio": 3,
+    "precioMayorista": 2.55,
+    "precioAnterior": null,
+    "stock": 23,
+    "imagenes": [
+      "/products/ele-0018.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Artículos Eléctricos",
+      "Marca": "STECK",
+      "Material": "Plástico y componentes electrónicos",
+      "Tensión": "415V",
+      "Corriente": "20A",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas"
+    }
+  },
+  {
+    "id": "p19",
+    "sku": "ELE-0019",
+    "nombre": "Interruptor Termomagnético Steck SDZD61C20 Curva C 20A 1P",
+    "descripcion": "Interruptor Termomagnético Steck SDZD61C20 Curva C 20A 1P El interruptor termomagnético STECK SDZD61C20 de 20 A 1P Curva C es una solución modular para proteger circuitos eléctricos de baja tensión frente a sobrecargas y cortocircuitos. Su formato para riel DIN 35 mm permite una instalación práctica en tableros residenciales, comerciales e industriales. Ideal para proyectos donde se necesita una llave termomagnética compacta, confiable y de fácil maniobra y capacidad de interrupción 6 kA.",
+    "categoria": "electricos",
+    "marca": "STECK",
+    "precio": 18,
+    "precioMayorista": 15.3,
+    "precioAnterior": null,
+    "stock": 24,
+    "imagenes": [
+      "/products/ele-0019.jpg",
+      "/products/ele-0019-1.jpg",
+      "/products/ele-0019-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Artículos Eléctricos",
+      "Marca": "STECK",
+      "Material": "Plástico y componentes electrónicos",
+      "Tensión": "415V",
+      "Corriente": "20A",
+      "Tipo de casquillo": "E27",
+      "Tonalidad de luz": "Cálida (2700K)",
+      "Lúmenes": "800 lm",
+      "Vida útil estimada": "15,000 horas"
+    }
+  },
+  {
+    "id": "p20",
+    "sku": "ELE-0020",
+    "nombre": "EXTENSIÓN ELÉCTRICA DE 5 METROS CON 3 TOMAS",
+    "descripcion": "Fabricado con cable vulcanizado. Luz led para identificar que esta con corriente. Longitud: 5 metros. Material interno: Conductores de cobre. 3 tomas universales con adaptador a tierra.",
+    "categoria": "electricos",
+    "marca": "Generico",
+    "precio": 32,
+    "precioMayorista": 27.2,
+    "precioAnterior": null,
+    "stock": 0,
+    "imagenes": [
+      "/products/ele-0020.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [
+      "agotado"
+    ],
+    "especificaciones": {
+      "Categoría": "Artículos Eléctricos",
+      "Marca": "Generico",
+      "Detalle de la Condiciónl": "El producto debe estar igual a como fue entregado",
+      "Cantidad del Paquete": "1"
+    }
+  },
+  {
+    "id": "p21",
+    "sku": "ELE-0021",
+    "nombre": "Supresor de picos 4 salidas Y 4 puertos de carga USB - cordón 1.2 mts",
+    "descripcion": "SUPRESOR DE PICOS 4 TOMAS ELÉCTRICAS + 4 SALIDAS DE CARGA USB - CORDÓN DE 1.2 MTS PLUSEXTEND A+ 9-10A-1.2M - Ahora que utilizamos mas artículos portátiles, eléctricos y electrónicos, disponer de mas salidas eléctricas es una gran ventaja; Sobre todo si disponemos de salidas USB que permitan cargar nuestros dispositivos. Solo aquí encuentras los artículos ideales para cuidar tus electrodomésticos. Se trata de un supresor de picos con 04 salidas eléctricas. Diseñado para para retener los \"picos\" de energía, protegiendo los aparatos de un voltaje superior al que puedan resistir. Ideal para computadoras, monitores, radios, equipos de sonido, Televisores, etc.",
+    "categoria": "electricos",
+    "marca": "AMERICAN NET",
+    "precio": 27,
+    "precioMayorista": 22.95,
+    "precioAnterior": null,
+    "stock": 26,
+    "imagenes": [
+      "/products/ele-0021.jpg",
+      "/products/ele-0021-1.jpg",
+      "/products/ele-0021-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Artículos Eléctricos",
+      "Marca": "AMERICAN NET",
+      "Material": "Plástico y componentes electrónicos",
+      "Voltaje Máximo de Protección": "1000V",
+      "Corriente de Descarga Máxima": "6500A",
+      "Número deTomas": "4 Tomas de CA + 4 Puertos USB",
+      "Longitud del Cable": "1.2 metros"
+    }
+  },
+  {
+    "id": "p22",
+    "sku": "ADH-0022",
+    "nombre": "Pegamento Epóxico Soldimix Detalle 5 Minutos 35G",
+    "descripcion": "Este pegamento de Soldimix es perfecto para uniones de gran resistencia y trabajo. Su contenido de 2 unidades te permite realizar varios proyectos sin tener que preocuparte por quedarte sin pegamento. Además, su presentación en bolsa te permite llevarlo contigo a cualquier lugar. El pegamento es multicolor, por lo que podrás utilizarlo en diferentes proyectos. Su material es PVC, lo que lo hace resistente y duradero. El pegamento tiene un peso de 0.4 kg y un rendimiento que no se especifica en la ficha técnica.",
+    "categoria": "adhesivos",
+    "marca": "SOLDIMIX",
+    "precio": 14,
+    "precioMayorista": 11.9,
+    "precioAnterior": null,
+    "stock": 27,
+    "imagenes": [
+      "/products/adh-0022.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Adhesivos",
+      "Marca": "SOLDIMIX",
+      "Material": "PVC",
+      "Peso": "0.4 kg"
+    }
+  },
+  {
+    "id": "p23",
+    "sku": "ADH-0023",
+    "nombre": "Pegamento Negro Epoxico Pegatanke",
+    "descripcion": "Pegamento Negro Epoxico Pegatanke • Es un pegamento epóxico de alta calidad, desarrollado para resistir las más exigentes condiciones físicas y químicas a las que pueda ser sometido • Utilizado en reparaciones industriales, automotrices (radiadores), navales, eléctricas, construcción y hasta reparaciones del hogar • Úsalo también bajo el agua y además puede ser mecanizado una vez curada la mezcla. • El pegamento puede presentar baja adherencia en superficies de plásticos reciclados. También usada en • Aluminio • Cerámica • Cobre • Fibra de Vidrio • Losa • Plástico • Madera • Metal • MDF • Vidrio",
+    "categoria": "adhesivos",
+    "marca": "PEGATANKE",
+    "precio": 11,
+    "precioMayorista": 9.35,
+    "precioAnterior": null,
+    "stock": 28,
+    "imagenes": [
+      "/products/adh-0023.jpg"
+    ],
+    "destacado": true,
+    "etiquetas": [
+      "destacado"
+    ],
+    "especificaciones": {
+      "Categoría": "Adhesivos",
+      "Marca": "PEGATANKE",
+      "Color": "Negro",
+      "Peso": "0.4 kg",
+      "Resistencia": "Alta",
+      "Tiempo de curado": "5 minutos"
+    }
+  },
+  {
+    "id": "p24",
+    "sku": "ADH-0024",
+    "nombre": "Cinta Doble Contacto 3M VHB 4910 19mm x 5 Metros",
+    "descripcion": "Cinta Doble Contacto VHB 4910 19mm x 5 Metros.El método de adhesión permanente rápido y fácil de usar proporciona alta resistencia y durabilidad a largo plazo. Transparente, (0.12 mm), adhesivo de uso general y núcleo de espuma acrílica firme que ofrece un buen equilibrio de resistencia y adaptabilidad. El adhesivo sensible a la presión se une al contacto para proporcionar una fuerza de manipulación inmediata. La fijación prácticamente invisible mantiene las superficies lisas. Elimine la perforación, rectificado, acabado, atornillado, soldadura y limpieza asociada. Permite el uso de materiales más delgados, livianos y diferentes. Puede reemplazar sujetadores mecánicos (remaches, soldaduras, tornillos) o adhesivos líquidos para aplicaciones transparentes. Crea un sello permanente contra el agua, la humedad y más. Soporta hasta 3.4 kg x metro",
+    "categoria": "adhesivos",
+    "marca": "3M",
+    "precio": 9,
+    "precioMayorista": 7.65,
+    "precioAnterior": null,
+    "stock": 29,
+    "imagenes": [
+      "/products/adh-0024.jpg",
+      "/products/adh-0024-1.jpg",
+      "/products/adh-0024-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Adhesivos",
+      "Marca": "3M",
+      "Material": "Espuma acrílica",
+      "Color": "Transparente",
+      "Grosor": "0.12 mm",
+      "Ancho": "19 mm",
+      "Largo": "5 metros",
+      "Resistencia": "Hasta 3.4 kg x metro"
+    }
+  },
+  {
+    "id": "p25",
+    "sku": "ADH-0025",
+    "nombre": "Adhesivo Enchape 1/4 gl",
+    "descripcion": "Este adhesivo Topex es ideal para PVC, corcho, espuma, cuero y tela. Con un tiempo de secado final de solo 30 minutos, podrás avanzar rápidamente en tus proyectos. Proviene de Chile y es perfecto para tus trabajos de enchapado.",
+    "categoria": "adhesivos",
+    "marca": "TOPEX",
+    "precio": 24,
+    "precioMayorista": 20.4,
+    "precioAnterior": null,
+    "stock": 30,
+    "imagenes": [
+      "/products/adh-0025.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Adhesivos",
+      "Marca": "TOPEX",
+      "Material": "PVC, corcho, espuma, cuero y tela",
+      "Color": "Transparente",
+      "Tiempo de secado": "30 minutos",
+      "Origen": "Chile",
+      "Presentación": "1/4 Galón",
+      "Superficies de aplicación": [
+        "PVC",
+        "Corcho",
+        "Espuma",
+        "Cuero",
+        "Tela"
+      ]
+    }
+  },
+  {
+    "id": "p26",
+    "sku": "ADH-0026",
+    "nombre": "ADHESIVO Y SELLADOR DE POLIURETANO GRIS SOLDIFLEX 300ML",
+    "descripcion": "Soldiflex es un sellador de poliuretano de alta calidad diseñado para ofrecer un sellado duradero y flexible en tus proyectos más exigentes. Su fórmula avanzada es ideal tanto para superficies porosas como no porosas, lo que lo convierte en la opción perfecta para una amplia gama de aplicaciones en interiores y exteriores. Proporciona una excelente adherencia.",
+    "categoria": "adhesivos",
+    "marca": "SOLDIMIX",
+    "precio": 19,
+    "precioMayorista": 16.15,
+    "precioAnterior": null,
+    "stock": 31,
+    "imagenes": [
+      "/products/adh-0026.jpg",
+      "/products/adh-0026-1.jpg",
+      "/products/adh-0026-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Adhesivos",
+      "Marca": "SOLDIMIX",
+      "Material": "Poliuretano",
+      "Color": "Gris",
+      "Tiempo de secado": "30 minutos",
+      "Origen": "Chile",
+      "Presentación": "300ML",
+      "Superficies de aplicación": [
+        "Porosas",
+        "No porosas"
+      ]
+    }
+  },
+  {
+    "id": "p27",
+    "sku": "ADH-0027",
+    "nombre": "Cinta aislante 3/4 pulgada",
+    "descripcion": "¡Dale un toque profesional a tus proyectos de pintura con la Cinta Masking Tape Topex! Esta cinta de 1.9 cm de ancho es perfecta para lograr líneas limpias y precisas, ideal para delimitar áreas y obtener resultados impecables en tus trabajos en casa. Simplifica tus proyectos y obtén acabados de calidad.",
+    "categoria": "adhesivos",
+    "marca": "TOPEX",
+    "precio": 3.5,
+    "precioMayorista": 2.98,
+    "precioAnterior": null,
+    "stock": 32,
+    "imagenes": [
+      "/products/adh-0027.jpg",
+      "/products/adh-0027-1.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Adhesivos",
+      "Marca": "TOPEX",
+      "Material": "PVC, corcho, espuma, cuero y tela",
+      "Color": "Transparente",
+      "Tiempo de secado": "30 minutos",
+      "Origen": "Chile",
+      "Presentación": "1/4 Galón",
+      "Superficies de aplicación": [
+        "PVC",
+        "Corcho",
+        "Espuma",
+        "Cuero",
+        "Tela"
+      ]
+    }
+  },
+  {
+    "id": "p28",
+    "sku": "ESC-0028",
+    "nombre": "MOCHILA PORTA ORIGINAL ALDI",
+    "descripcion": "Mochila Original Porta con un diseño moderno y de calidad. ¿Estás buscando los mejores accesorios de colegio para tus hijos? Nuestra selección de productos le permitirá equipar a su hijo con los mejores útiles para la escuela. Desde mochilas con los dibujos favoritos de sus hijos hasta herramientas creativas y educativas para el aula, pensamos en la diversión y el aprendizaje de los niños. Contamos con una gran variedad de colores y estilos para que tu hijo pueda elegir el que más le guste. ¡No esperes más y compra los accesorios de colegio para niños de Saga Falabella! Compartimiento principal con cierre, Bolsillo elástico interno simple, Bolsillos organizadores internos, Tirantes acolchados regulables, Bolsillo frontal con cierre",
+    "categoria": "escolar",
+    "marca": "PORTA",
+    "precio": 79,
+    "precioMayorista": 67.15,
+    "precioAnterior": null,
+    "stock": 33,
+    "imagenes": [
+      "/products/esc-0028.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Campaña Escolar",
+      "Marca": "PORTA",
+      "Compartimiento principal": "con cierre",
+      "Bolsillo elástico interno": "simple",
+      "Bolsillos organizadores": "internos",
+      "Tirantes": "acolchados regulables",
+      "Bolsillo frontal": "con cierre"
+    }
+  },
+  {
+    "id": "p29",
+    "sku": "ESC-0029",
+    "nombre": "Cartuchera Traveler con múltiples cierres",
+    "descripcion": "Estuche multifuncional de gran capacidad, diseñado con un sistema expandible inteligente que permite ajustar su profundidad según tus necesidades. Fabricado en tela Oxford de alta resistencia, es ideal para organizar útiles escolares, artículos de oficina o cosméticos de forma eficiente. Características principales: Capacidad Expandible: Cuenta con un cierre lateral que, al abrirse, aumenta el fondo del estuche para almacenar más objetos. Organización Eficiente: Dispone de múltiples compartimentos internos y bolsillos de malla para clasificar lápices, gomas, notas y accesorios pequeños. Material Duradero: Confeccionado en tela Oxford y nylon, materiales resistentes al desgaste y fáciles de limpiar. Multifuncional: Su diseño versátil permite usarlo como estuche escolar, neceser de maquillaje, bolsa de viaje o porta cables. Especificaciones técnicas: Medidas: 21 cm (Largo) x 12 cm (Alto) x 7 cm (Ancho/Fondo). Material principal: Tela Oxford. Tipo de cierre: Cremallera reforzada. Contenido del paquete: 1 Cartuchera organizadora, 1 Charm decorativo (accesorio para el cierre).",
+    "categoria": "escolar",
+    "marca": "GENERICO",
+    "precio": 18,
+    "precioMayorista": 15.3,
+    "precioAnterior": null,
+    "stock": 34,
+    "imagenes": [
+      "/products/esc-0029.jpg",
+      "/products/esc-0029-1.jpg",
+      "/products/esc-0029-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [
+      "más vendido"
+    ],
+    "especificaciones": {
+      "Categoría": "Campaña Escolar",
+      "Marca": "GENERICO",
+      "Material principal": "Tela Oxford",
+      "Tipo de cierre": "Cremallera reforzada",
+      "Contenido del paquete": "1 Cartuchera organizadora, 1 Charm decorativo (accesorio para el cierre)",
+      "Medidas": "21 cm (Largo) x 12 cm (Alto) x 7 cm (Ancho/Fondo)"
+    }
+  },
+  {
+    "id": "p30",
+    "sku": "ESC-0030",
+    "nombre": "Set de colores 24 unidades",
+    "descripcion": "Colores Faber Castell Empaque 24 Und + 4 Colores Pastel",
+    "categoria": "escolar",
+    "marca": "FABER CASTELL",
+    "precio": 16,
+    "precioMayorista": 13.6,
+    "precioAnterior": null,
+    "stock": 20,
+    "imagenes": [
+      "/products/esc-0030.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Campaña Escolar",
+      "Marca": "FABER CASTELL",
+      "Contenido del paquete": "1 Cartuchera organizadora, 1 Charm decorativo (accesorio para el cierre)"
+    }
+  },
+  {
+    "id": "p31",
+    "sku": "ESC-0031",
+    "nombre": "Caja de Cuadernos Cuadriculado Standford Notebook – 25 Unidades",
+    "descripcion": "Organiza, escribe y trabaja con calidad profesional. La Caja de Cuadernos Standford Notebook es ideal para oficinas, instituciones educativas, empresas y negocios que buscan practicidad y buen acabado en cada página. Sus hojas permiten una escritura fluida y ordenada, perfectas para notas diarias, reuniones, clases y controles administrativos. Presentación: Caja con 25 cuadernos Uso recomendado: Oficinas, colegios, universidades y empresas Ideal para: Apuntes, registros, capacitaciones y uso diario",
+    "categoria": "escolar",
+    "marca": "STANDFORD NOTEBOOK",
+    "precio": 9,
+    "precioMayorista": 7.65,
+    "precioAnterior": null,
+    "stock": 21,
+    "imagenes": [
+      "/products/esc-0031.jpg"
+    ],
+    "destacado": true,
+    "etiquetas": [
+      "destacado"
+    ],
+    "especificaciones": {
+      "Categoría": "Campaña Escolar",
+      "Marca": "STANDFORD NOTEBOOK",
+      "Presentación": "Caja con 25 cuadernos",
+      "Uso recomendado": "Oficinas, colegios, universidades y empresas",
+      "Ideal para": "Apuntes, registros, capacitaciones y uso diario"
+    }
+  },
+  {
+    "id": "p32",
+    "sku": "ESC-0032",
+    "nombre": "Tijera Para Zurdos Vinifan 5.5'' Con Mango Rojo",
+    "descripcion": "Tijera 5.5 Pulgadas Mango Rojo Para Zurdos Vinifan",
+    "categoria": "escolar",
+    "marca": "VINIFAN",
+    "precio": 5,
+    "precioMayorista": 4.25,
+    "precioAnterior": null,
+    "stock": 22,
+    "imagenes": [
+      "/products/esc-0032.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Campaña Escolar",
+      "Marca": "VINIFAN"
+    }
+  },
+  {
+    "id": "p33",
+    "sku": "ESC-0033",
+    "nombre": "Corrector líquido 20ml",
+    "descripcion": "Corrector tipo lapicero de cuerpo blando de fácil presión Suave olor y rápido secado Con punta metálica No contiene tricloroetano",
+    "categoria": "escolar",
+    "marca": "FABER CASTELL",
+    "precio": 3.5,
+    "precioMayorista": 2.98,
+    "precioAnterior": null,
+    "stock": 23,
+    "imagenes": [
+      "/products/esc-0033.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Campaña Escolar",
+      "Marca": "FABER CASTELL"
+    }
+  },
+  {
+    "id": "p34",
+    "sku": "ESC-0034",
+    "nombre": "Regla Vinifan Transparente 30 Cm",
+    "descripcion": "Regla 30cm Transparente para medidas precisas en trabajos escolares y profesionales.",
+    "categoria": "escolar",
+    "marca": "VINIFAN",
+    "precio": 6,
+    "precioMayorista": 5.1,
+    "precioAnterior": null,
+    "stock": 24,
+    "imagenes": [
+      "/products/esc-0034.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [
+      "nuevo"
+    ],
+    "especificaciones": {
+      "Categoría": "Campaña Escolar",
+      "Marca": "VINIFAN",
+      "Medidas": "30.1 x 3.7 x 0.24 cm",
+      "Peso neto": "34 gr",
+      "Contiene": "Una regla de 30 cm"
+    }
+  },
+  {
+    "id": "p35",
+    "sku": "PIN-0035",
+    "nombre": "Barniz Marino Transparente 1/4 gl",
+    "descripcion": "Formulado con insumos especiales para darle más resistencia a la luz solar, el barniz Tekno es ideal para proteger piezas de madera en interiores que requieran un acabado brillante.",
+    "categoria": "pinturas",
+    "marca": "TEKNO",
+    "precio": 65,
+    "precioMayorista": 55.25,
+    "precioAnterior": null,
+    "stock": 25,
+    "imagenes": [
+      "/products/pin-0035.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Pinturas y Acabados",
+      "Marca": "TEKNO",
+      "Rendimiento teórico": "12-14 m² / litro / mano",
+      "Solvente de limpieza y dilución": "Thinner Acrílico Estándar",
+      "Tiempo de secado al tacto": "30-60 minutos",
+      "Tiempo de secado completo": "4-6 horas",
+      "Tiempo de repinte": "24 horas",
+      "Aplicación": "Brocha, rodillo o pistola"
+    }
+  },
+  {
+    "id": "p36",
+    "sku": "PIN-0036",
+    "nombre": "Teknogloss Aluminio 1GL",
+    "descripcion": "Esmalte sintético que ofrece alto brillo y excelente nivelación. Ideal para superficies de metal, madera y concreto en interiores y exteriores. Fácil de aplicar y de rápido secado.",
+    "categoria": "pinturas",
+    "marca": "TEKNO",
+    "precio": 28,
+    "precioMayorista": 23.8,
+    "precioAnterior": null,
+    "stock": 26,
+    "imagenes": [
+      "/products/pin-0036.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Pinturas y Acabados",
+      "Marca": "TEKNO",
+      "Rendimiento teórico": "10-12 m² / galón / mano",
+      "Solvente de limpieza y dilución": "Thinner Acrílico Estándar",
+      "Tiempo de secado al tacto": "30-60 minutos",
+      "Tiempo de secado completo": "4-6 horas",
+      "Tiempo de repinte": "24 horas",
+      "Aplicación": "Brocha, rodillo o pistola"
+    }
+  },
+  {
+    "id": "p37",
+    "sku": "PIN-0037",
+    "nombre": "Barniz Marino Transparente 1/4 gl",
+    "descripcion": "El barniz marino protege las piezas de madera expuestas a la luz solar, mantiene por más tiempo el brillo y es muy resistente.",
+    "categoria": "pinturas",
+    "marca": "PARACAS",
+    "precio": 34,
+    "precioMayorista": 28.9,
+    "precioAnterior": null,
+    "stock": 27,
+    "imagenes": [
+      "/products/pin-0037.jpg"
+    ],
+    "destacado": true,
+    "etiquetas": [
+      "destacado"
+    ],
+    "especificaciones": {
+      "Categoría": "Pinturas y Acabados",
+      "Marca": "PARACAS"
+    }
+  },
+  {
+    "id": "p38",
+    "sku": "PIN-0038",
+    "nombre": "Thinner Extra Acrílico 1L",
+    "descripcion": "El thinner es un disolvente que se usa para diluir las pinturas y esmaltes, permitiendo que se apliquen de manera más uniforme. Además, sirve para limpiar brochas, rodillos y superficies antes de pintar.",
+    "categoria": "pinturas",
+    "marca": "VENCEDOR",
+    "precio": 22,
+    "precioMayorista": 18.7,
+    "precioAnterior": null,
+    "stock": 28,
+    "imagenes": [
+      "/products/pin-0038.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Pinturas y Acabados",
+      "Marca": "VENCEDOR",
+      "Contenido Neto": "1 Litro (0.264 galón)",
+      "Composición": "Mezcla de disolventes Orgánicos",
+      "Densidad": "0.78 g/cm³ a 20°C",
+      "Punto de Inflamación": "6.8 °C",
+      "Usosrecomendados": "Dilución de lacas y esmaltes sintéticos, limpieza de herramientas y superficies"
+    }
+  },
+  {
+    "id": "p39",
+    "sku": "PIN-0039",
+    "nombre": "Brocha 3 pulgadas para fino acabado",
+    "descripcion": "Diseñada para proporcionar acabados lisos y uniformes en una variedad de superficies. Sus cerdas sintéticas de alta calidad aseguran una excelente retención y liberación de pintura, mientras que su mango ergonómico ofrece comodidad y control durante el uso.",
+    "categoria": "pinturas",
+    "marca": "TRUPER",
+    "precio": 8,
+    "precioMayorista": 6.8,
+    "precioAnterior": null,
+    "stock": 29,
+    "imagenes": [
+      "/products/pin-0039.jpg",
+      "/products/pin-0039-1.jpg",
+      "/products/pin-0039-2.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Pinturas y Acabados",
+      "Marca": "TRUPER",
+      "Ancho": "3 pulgadas (75 mm)",
+      "Tipo de Cerdas": "Sintéticas",
+      "Tipo de Mango": "Madera",
+      "Longitud del Mango": "15 cm",
+      "Usos recomendados": "Pinturas acrílicas, esmaltes y lacas en superficies lisas y paredes"
+    }
+  },
+  {
+    "id": "p40",
+    "sku": "PIN-0040",
+    "nombre": "Rodillo pintor antigotas 9 pulgadas fino acabado",
+    "descripcion": "Incluye bandeja plástica.",
+    "categoria": "pinturas",
+    "marca": "TRUPER",
+    "precio": 12,
+    "precioMayorista": 10.2,
+    "precioAnterior": null,
+    "stock": 30,
+    "imagenes": [
+      "/products/pin-0040.jpg",
+      "/products/pin-0040-1.jpg"
+    ],
+    "destacado": false,
+    "etiquetas": [],
+    "especificaciones": {
+      "Categoría": "Pinturas y Acabados",
+      "Marca": "TRUPER",
+      "Longitud del rodillo": "9 pulgadas (228 mm)",
+      "Tipo de pelo": "100% sintético de poliéster",
+      "Grosor del pelo": "10 mm (fino acabado)",
+      "Diámetro del núcleo": "1.5 pulgadas (38 mm)",
+      "Usos recomendados": "Pinturas acrílicas, esmaltes y lacas en superficies lisas y paredes"
+    }
+  }
+]
